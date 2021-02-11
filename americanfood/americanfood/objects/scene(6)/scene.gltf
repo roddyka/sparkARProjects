@@ -1,0 +1,2737 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 114,
+      "max": [
+        40.850975036621094,
+        43.04217529296875,
+        20.376083374023438
+      ],
+      "min": [
+        -43.168609619140625,
+        -43.04217529296875,
+        -6.8050856590270996
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1368,
+      "componentType": 5126,
+      "count": 114,
+      "max": [
+        0.99998283386230469,
+        0.97575569152832031,
+        0.99667137861251831
+      ],
+      "min": [
+        -0.93377423286437988,
+        -0.97575569152832031,
+        -0.99482393264770508
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 114,
+      "max": [
+        0.35518977046012878,
+        0.99995929002761841,
+        0.97609281539916992,
+        1
+      ],
+      "min": [
+        -0.40247687697410583,
+        -0.99994593858718872,
+        -0.97084665298461914,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 114,
+      "max": [
+        0.97477167844772339,
+        0.97323334217071533
+      ],
+      "min": [
+        0.029904365539550781,
+        0.024064838886260986
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 576,
+      "max": [
+        113
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2736,
+      "componentType": 5126,
+      "count": 470,
+      "max": [
+        41.568218231201172,
+        40.840816497802734,
+        31.592075347900391
+      ],
+      "min": [
+        -40.791305541992188,
+        -41.810787200927734,
+        -0.028447296470403671
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 8376,
+      "componentType": 5126,
+      "count": 470,
+      "max": [
+        0.97453886270523071,
+        0.99991774559020996,
+        0.99984592199325562
+      ],
+      "min": [
+        -0.99472957849502563,
+        -0.98545974493026733,
+        -0.99979090690612793
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1824,
+      "componentType": 5126,
+      "count": 470,
+      "max": [
+        0.61521536111831665,
+        0.99997401237487793,
+        0.99113219976425171,
+        1
+      ],
+      "min": [
+        -0.99999743700027466,
+        -0.66729134321212769,
+        -0.99936521053314209,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 912,
+      "componentType": 5126,
+      "count": 470,
+      "max": [
+        0.98538827896118164,
+        0.97951614856719971
+      ],
+      "min": [
+        0.035788923501968384,
+        0.017388869076967239
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2304,
+      "componentType": 5125,
+      "count": 2616,
+      "max": [
+        469
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 14016,
+      "componentType": 5126,
+      "count": 328,
+      "max": [
+        41.810371398925781,
+        41.750484466552734,
+        18.531581878662109
+      ],
+      "min": [
+        -41.904075622558594,
+        -41.750484466552734,
+        -6.1478557586669922
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 17952,
+      "componentType": 5126,
+      "count": 328,
+      "max": [
+        0.95855575799942017,
+        0.91132104396820068,
+        0.99989575147628784
+      ],
+      "min": [
+        -0.98302555084228516,
+        -0.91132098436355591,
+        -0.99929332733154297
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 9344,
+      "componentType": 5126,
+      "count": 328,
+      "max": [
+        0.99997127056121826,
+        0.99999868869781494,
+        0.76404339075088501,
+        1
+      ],
+      "min": [
+        -0.99936509132385254,
+        -0.99999868869781494,
+        -0.91618913412094116,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 4672,
+      "componentType": 5126,
+      "count": 328,
+      "max": [
+        1.1371057033538818,
+        1.1520566940307617
+      ],
+      "min": [
+        -0.13484007120132446,
+        -0.15205663442611694
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12768,
+      "componentType": 5125,
+      "count": 576,
+      "max": [
+        327
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 21888,
+      "componentType": 5126,
+      "count": 470,
+      "max": [
+        41.443588256835938,
+        43.332542419433594,
+        13.805595397949219
+      ],
+      "min": [
+        -46.593353271484375,
+        -44.635635375976562,
+        -29.818061828613281
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 27528,
+      "componentType": 5126,
+      "count": 470,
+      "max": [
+        0.99811261892318726,
+        0.99801450967788696,
+        0.99576002359390259
+      ],
+      "min": [
+        -0.99904948472976685,
+        -0.98641377687454224,
+        -0.99973851442337036
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 14592,
+      "componentType": 5126,
+      "count": 470,
+      "max": [
+        0.99920833110809326,
+        0.99994808435440063,
+        0.88551253080368042,
+        1
+      ],
+      "min": [
+        -0.99726718664169312,
+        -1,
+        -0.74611711502075195,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 7296,
+      "componentType": 5126,
+      "count": 470,
+      "max": [
+        1,
+        1
+      ],
+      "min": [
+        1.8972746929080131e-08,
+        0.17935340106487274
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 15072,
+      "componentType": 5125,
+      "count": 2568,
+      "max": [
+        469
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 33168,
+      "componentType": 5126,
+      "count": 212,
+      "max": [
+        4.6718859672546387,
+        17.846590042114258,
+        6.2908077239990234
+      ],
+      "min": [
+        -6.2657041549682617,
+        -17.516460418701172,
+        -1.4387974739074707
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 35712,
+      "componentType": 5126,
+      "count": 212,
+      "max": [
+        0.99034255743026733,
+        0.98574137687683105,
+        0.99984413385391235
+      ],
+      "min": [
+        -0.99288594722747803,
+        -0.94138002395629883,
+        -0.99968546628952026
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 22112,
+      "componentType": 5126,
+      "count": 212,
+      "max": [
+        0.99955785274505615,
+        0.94743895530700684,
+        0.99877911806106567,
+        1
+      ],
+      "min": [
+        -0.99908292293548584,
+        -0.92364645004272461,
+        -0.98145794868469238,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 11056,
+      "componentType": 5126,
+      "count": 212,
+      "max": [
+        0.7183186411857605,
+        0.97964978218078613
+      ],
+      "min": [
+        0.025507211685180664,
+        0.073675066232681274
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 25344,
+      "componentType": 5125,
+      "count": 1104,
+      "max": [
+        211
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 38256,
+      "componentType": 5126,
+      "count": 212,
+      "max": [
+        4.6718859672546387,
+        17.185190200805664,
+        6.4218888282775879
+      ],
+      "min": [
+        -5.8679952621459961,
+        -17.516460418701172,
+        -1.4387974739074707
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 40800,
+      "componentType": 5126,
+      "count": 212,
+      "max": [
+        0.99065852165222168,
+        0.94537258148193359,
+        0.99737584590911865
+      ],
+      "min": [
+        -0.99483287334442139,
+        -0.94138002395629883,
+        -0.99763190746307373
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 25504,
+      "componentType": 5126,
+      "count": 212,
+      "max": [
+        0.99904817342758179,
+        0.93318480253219604,
+        0.99826443195343018,
+        1
+      ],
+      "min": [
+        -0.9996798038482666,
+        -0.91451913118362427,
+        -0.98565036058425903,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 12752,
+      "componentType": 5126,
+      "count": 212,
+      "max": [
+        0.7183186411857605,
+        0.97964978218078613
+      ],
+      "min": [
+        0.025507211685180664,
+        0.073675066232681274
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 29760,
+      "componentType": 5125,
+      "count": 1104,
+      "max": [
+        211
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 43344,
+      "componentType": 5126,
+      "count": 138,
+      "max": [
+        26.567468643188477,
+        34.296051025390625,
+        2.0958065986633301
+      ],
+      "min": [
+        -26.793722152709961,
+        -25.356679916381836,
+        -7.4744300842285156
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 45000,
+      "componentType": 5126,
+      "count": 138,
+      "max": [
+        0.83339554071426392,
+        0.99998635053634644,
+        0.99994379281997681
+      ],
+      "min": [
+        -0.83339554071426392,
+        -0.99981003999710083,
+        -0.99998337030410767
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 28896,
+      "componentType": 5126,
+      "count": 138,
+      "max": [
+        0.99947339296340942,
+        0.53818410634994507,
+        0.83245378732681274,
+        1
+      ],
+      "min": [
+        -0.99999433755874634,
+        -0.55574721097946167,
+        -0.98485887050628662,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 14448,
+      "componentType": 5126,
+      "count": 138,
+      "max": [
+        0.97752761840820312,
+        0.98541688919067383
+      ],
+      "min": [
+        0.01833183690905571,
+        0.024677067995071411
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 34176,
+      "componentType": 5125,
+      "count": 510,
+      "max": [
+        137
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 46656,
+      "componentType": 5126,
+      "count": 138,
+      "max": [
+        26.567468643188477,
+        34.296051025390625,
+        2.0958065986633301
+      ],
+      "min": [
+        -26.793722152709961,
+        -25.356679916381836,
+        -7.4744300842285156
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 48312,
+      "componentType": 5126,
+      "count": 138,
+      "max": [
+        0.83339554071426392,
+        0.99998635053634644,
+        0.99994379281997681
+      ],
+      "min": [
+        -0.83339554071426392,
+        -0.99981003999710083,
+        -0.99998337030410767
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 31104,
+      "componentType": 5126,
+      "count": 138,
+      "max": [
+        0.99947339296340942,
+        0.53818410634994507,
+        0.83245378732681274,
+        1
+      ],
+      "min": [
+        -0.99999433755874634,
+        -0.55574721097946167,
+        -0.98485887050628662,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 15552,
+      "componentType": 5126,
+      "count": 138,
+      "max": [
+        0.97752761840820312,
+        0.98541688919067383
+      ],
+      "min": [
+        0.01833183690905571,
+        0.024677067995071411
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 36216,
+      "componentType": 5125,
+      "count": 510,
+      "max": [
+        137
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 49968,
+      "componentType": 5126,
+      "count": 52,
+      "max": [
+        14.929424285888672,
+        14.929424285888672,
+        2.265674352645874
+      ],
+      "min": [
+        -14.929424285888672,
+        -14.929424285888672,
+        0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 50592,
+      "componentType": 5126,
+      "count": 52,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 33312,
+      "componentType": 5126,
+      "count": 52,
+      "max": [
+        1,
+        0.99999958276748657,
+        0.0010821053292602301,
+        1
+      ],
+      "min": [
+        -0.99999946355819702,
+        -0.99999946355819702,
+        0,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 16656,
+      "componentType": 5126,
+      "count": 52,
+      "max": [
+        0.88761579990386963,
+        0.98437744379043579
+      ],
+      "min": [
+        0.020527299493551254,
+        0.41803228855133057
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 38256,
+      "componentType": 5125,
+      "count": 144,
+      "max": [
+        51
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 51216,
+      "componentType": 5126,
+      "count": 52,
+      "max": [
+        14.929424285888672,
+        14.929424285888672,
+        2.265674352645874
+      ],
+      "min": [
+        -14.929424285888672,
+        -14.929424285888672,
+        0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 51840,
+      "componentType": 5126,
+      "count": 52,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 34144,
+      "componentType": 5126,
+      "count": 52,
+      "max": [
+        1,
+        0.99999958276748657,
+        0.0010821053292602301,
+        1
+      ],
+      "min": [
+        -0.99999946355819702,
+        -0.99999946355819702,
+        0,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 17072,
+      "componentType": 5126,
+      "count": 52,
+      "max": [
+        0.88761579990386963,
+        0.98437744379043579
+      ],
+      "min": [
+        0.020527299493551254,
+        0.41803228855133057
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 38832,
+      "componentType": 5125,
+      "count": 144,
+      "max": [
+        51
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 52464,
+      "componentType": 5126,
+      "count": 140,
+      "max": [
+        14.344820022583008,
+        16.970846176147461,
+        0.89308524131774902
+      ],
+      "min": [
+        -19.371921539306641,
+        -17.530214309692383,
+        -0.47305095195770264
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 54144,
+      "componentType": 5126,
+      "count": 140,
+      "max": [
+        0.99764364957809448,
+        0.99551576375961304,
+        1
+      ],
+      "min": [
+        -0.99764269590377808,
+        -0.99551570415496826,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 34976,
+      "componentType": 5126,
+      "count": 140,
+      "max": [
+        0.95449203252792358,
+        0.99929571151733398,
+        0.017431626096367836,
+        1
+      ],
+      "min": [
+        -0.69767880439758301,
+        -0.98897457122802734,
+        -0.99999344348907471,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 17488,
+      "componentType": 5126,
+      "count": 140,
+      "max": [
+        0.75368070602416992,
+        0.96862322092056274
+      ],
+      "min": [
+        0.034074727445840836,
+        0.044330298900604248
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 39408,
+      "componentType": 5125,
+      "count": 372,
+      "max": [
+        139
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 55824,
+      "componentType": 5126,
+      "count": 140,
+      "max": [
+        14.344820022583008,
+        16.970846176147461,
+        0.89308524131774902
+      ],
+      "min": [
+        -19.371921539306641,
+        -17.530214309692383,
+        -0.47305095195770264
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 57504,
+      "componentType": 5126,
+      "count": 140,
+      "max": [
+        0.99764364957809448,
+        0.99551576375961304,
+        1
+      ],
+      "min": [
+        -0.99764269590377808,
+        -0.99551570415496826,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 37216,
+      "componentType": 5126,
+      "count": 140,
+      "max": [
+        0.95449203252792358,
+        0.99929571151733398,
+        0.017431626096367836,
+        1
+      ],
+      "min": [
+        -0.69767880439758301,
+        -0.98897457122802734,
+        -0.99999344348907471,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 18608,
+      "componentType": 5126,
+      "count": 140,
+      "max": [
+        0.75368070602416992,
+        0.96862322092056274
+      ],
+      "min": [
+        0.034074727445840836,
+        0.044330298900604248
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 40896,
+      "componentType": 5125,
+      "count": 372,
+      "max": [
+        139
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 59184,
+      "componentType": 5126,
+      "count": 140,
+      "max": [
+        14.344820022583008,
+        16.970846176147461,
+        0.89308524131774902
+      ],
+      "min": [
+        -19.371921539306641,
+        -17.530214309692383,
+        -0.47305095195770264
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 60864,
+      "componentType": 5126,
+      "count": 140,
+      "max": [
+        0.99764364957809448,
+        0.99551576375961304,
+        1
+      ],
+      "min": [
+        -0.99764269590377808,
+        -0.99551570415496826,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 39456,
+      "componentType": 5126,
+      "count": 140,
+      "max": [
+        0.95449203252792358,
+        0.99929571151733398,
+        0.017431626096367836,
+        1
+      ],
+      "min": [
+        -0.69767880439758301,
+        -0.98897457122802734,
+        -0.99999344348907471,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 19728,
+      "componentType": 5126,
+      "count": 140,
+      "max": [
+        0.75368070602416992,
+        0.96862322092056274
+      ],
+      "min": [
+        0.034074727445840836,
+        0.044330298900604248
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 42384,
+      "componentType": 5125,
+      "count": 372,
+      "max": [
+        139
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 62544,
+      "componentType": 5126,
+      "count": 212,
+      "max": [
+        4.6547713279724121,
+        17.846590042114258,
+        3.8235039710998535
+      ],
+      "min": [
+        -6.2657041549682617,
+        -18.027202606201172,
+        -1.4093732833862305
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 65088,
+      "componentType": 5126,
+      "count": 212,
+      "max": [
+        0.9907146692276001,
+        0.98574137687683105,
+        0.99688374996185303
+      ],
+      "min": [
+        -0.99149656295776367,
+        -0.99401110410690308,
+        -0.99726074934005737
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 41696,
+      "componentType": 5126,
+      "count": 212,
+      "max": [
+        0.99976527690887451,
+        0.94743895530700684,
+        0.9988558292388916,
+        1
+      ],
+      "min": [
+        -0.99984180927276611,
+        -0.92364645004272461,
+        -0.98324877023696899,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 20848,
+      "componentType": 5126,
+      "count": 212,
+      "max": [
+        0.7183186411857605,
+        0.97964978218078613
+      ],
+      "min": [
+        0.025507211685180664,
+        0.073675066232681274
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 43872,
+      "componentType": 5125,
+      "count": 1104,
+      "max": [
+        211
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 67632,
+      "componentType": 5126,
+      "count": 328,
+      "max": [
+        41.810371398925781,
+        41.750484466552734,
+        18.531581878662109
+      ],
+      "min": [
+        -41.904075622558594,
+        -41.750484466552734,
+        -6.1478557586669922
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 71568,
+      "componentType": 5126,
+      "count": 328,
+      "max": [
+        0.95855575799942017,
+        0.91132104396820068,
+        0.99989575147628784
+      ],
+      "min": [
+        -0.98302555084228516,
+        -0.91132098436355591,
+        -0.99929332733154297
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 45088,
+      "componentType": 5126,
+      "count": 328,
+      "max": [
+        0.99997127056121826,
+        0.99999868869781494,
+        0.76404339075088501,
+        1
+      ],
+      "min": [
+        -0.99936509132385254,
+        -0.99999868869781494,
+        -0.91618913412094116,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 22544,
+      "componentType": 5126,
+      "count": 328,
+      "max": [
+        1.1371057033538818,
+        1.1520566940307617
+      ],
+      "min": [
+        -0.13484007120132446,
+        -0.15205663442611694
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 48288,
+      "componentType": 5125,
+      "count": 576,
+      "max": [
+        327
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 75504,
+      "componentType": 5126,
+      "count": 453,
+      "max": [
+        41.952625274658203,
+        46.8155517578125,
+        13.819171905517578
+      ],
+      "min": [
+        -45.739982604980469,
+        -44.624919891357422,
+        -28.528547286987305
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 80940,
+      "componentType": 5126,
+      "count": 453,
+      "max": [
+        0.99802827835083008,
+        0.98416984081268311,
+        0.9959600567817688
+      ],
+      "min": [
+        -0.99765139818191528,
+        -0.98685222864151001,
+        -0.99973851442337036
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 50336,
+      "componentType": 5126,
+      "count": 453,
+      "max": [
+        0.99673092365264893,
+        0.99968141317367554,
+        0.98492717742919922,
+        1
+      ],
+      "min": [
+        -0.99999988079071045,
+        -0.99999946355819702,
+        -0.87495285272598267,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 25168,
+      "componentType": 5126,
+      "count": 453,
+      "max": [
+        1,
+        1
+      ],
+      "min": [
+        1.8972746929080131e-08,
+        0.17935340106487274
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 50592,
+      "componentType": 5125,
+      "count": 2424,
+      "max": [
+        452
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Rickerson (https://sketchfab.com/Rickerson.Martines.Aparecido)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/hamburger-cab10f9eb7d6453db458046e3d1ce32b",
+      "title": "Hamburger"
+    },
+    "generator": "Sketchfab-4.81.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 60288,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 28792,
+      "byteOffset": 60288,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 86376,
+      "byteOffset": 89080,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 57584,
+      "byteOffset": 175456,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 233040,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/06_-_Default_normal.png"
+    },
+    {
+      "uri": "textures/06_-_Default_baseColor.png"
+    },
+    {
+      "uri": "textures/03_-_Default_1_normal.png"
+    },
+    {
+      "uri": "textures/03_-_Default_1_baseColor.png"
+    },
+    {
+      "uri": "textures/08_-_Default_normal.png"
+    },
+    {
+      "uri": "textures/08_-_Default_baseColor.png"
+    },
+    {
+      "uri": "textures/08_-_Default_1_normal.png"
+    },
+    {
+      "uri": "textures/08_-_Default_1_baseColor.png"
+    },
+    {
+      "uri": "textures/05_-_Default_normal.png"
+    },
+    {
+      "uri": "textures/05_-_Default_baseColor.png"
+    },
+    {
+      "uri": "textures/01_-_Default_normal.png"
+    },
+    {
+      "uri": "textures/01_-_Default_baseColor.png"
+    },
+    {
+      "uri": "textures/05_-_Default_0_normal.png"
+    },
+    {
+      "uri": "textures/05_-_Default_0_baseColor.png"
+    },
+    {
+      "uri": "textures/02_-_Default_baseColor.png"
+    },
+    {
+      "uri": "textures/08_-_Default_0_normal.png"
+    },
+    {
+      "uri": "textures/08_-_Default_0_baseColor.png"
+    },
+    {
+      "uri": "textures/03_-_Default_0_normal.png"
+    },
+    {
+      "uri": "textures/03_-_Default_0_baseColor.png"
+    },
+    {
+      "uri": "textures/03_-_Default_normal.png"
+    },
+    {
+      "uri": "textures/03_-_Default_baseColor.png"
+    },
+    {
+      "uri": "textures/06_-_Default_0_normal.png"
+    },
+    {
+      "uri": "textures/06_-_Default_0_baseColor.png"
+    },
+    {
+      "uri": "textures/01_-_Default_0_normal.png"
+    },
+    {
+      "uri": "textures/01_-_Default_0_baseColor.png"
+    },
+    {
+      "uri": "textures/04_-_Default_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "04_-_Default",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 25,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.45900000000000002
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "02_-_Default",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 14,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.45903201220000001
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "01_-_Default",
+      "normalTexture": {
+        "index": 10,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 11,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.495617378
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "07_-_Default",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.97998638100000002,
+          0.91791331759999994,
+          0.1036271262,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.12976371950000001
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "03_-_Default",
+      "normalTexture": {
+        "index": 19,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 20,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.14799999999999999
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "03_-_Default_0",
+      "normalTexture": {
+        "index": 17,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 18,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.14805640240000001
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "06_-_Default",
+      "normalTexture": {
+        "index": 0,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.16900000000000004
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "06_-_Default_0",
+      "normalTexture": {
+        "index": 21,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 22,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.16900000000000004
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "05_-_Default",
+      "normalTexture": {
+        "index": 8,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 9,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.1070286404
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "05_-_Default_0",
+      "normalTexture": {
+        "index": 12,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 13,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.1070286404
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "08_-_Default",
+      "normalTexture": {
+        "index": 4,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 5,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.185
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "08_-_Default_0",
+      "normalTexture": {
+        "index": 15,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 16,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.185
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "08_-_Default_1",
+      "normalTexture": {
+        "index": 6,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 7,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.18464176830000001
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "03_-_Default_1",
+      "normalTexture": {
+        "index": 2,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 3,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.14799999999999999
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "01_-_Default_0",
+      "normalTexture": {
+        "index": 23,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 24,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.496
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Cylinder001_04 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder002_02 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder003_01 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder004_07 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15,
+            "TANGENT": 17,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Line005_03 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TANGENT": 22,
+            "TEXCOORD_0": 23
+          },
+          "indices": 24,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Line004_03 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 26,
+            "POSITION": 25,
+            "TANGENT": 27,
+            "TEXCOORD_0": 28
+          },
+          "indices": 29,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane002_06 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 31,
+            "POSITION": 30,
+            "TANGENT": 32,
+            "TEXCOORD_0": 33
+          },
+          "indices": 34,
+          "material": 6,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane001_06 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 36,
+            "POSITION": 35,
+            "TANGENT": 37,
+            "TEXCOORD_0": 38
+          },
+          "indices": 39,
+          "material": 7,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder006_05 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 41,
+            "POSITION": 40,
+            "TANGENT": 42,
+            "TEXCOORD_0": 43
+          },
+          "indices": 44,
+          "material": 8,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder005_05 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 46,
+            "POSITION": 45,
+            "TANGENT": 47,
+            "TEXCOORD_0": 48
+          },
+          "indices": 49,
+          "material": 9,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Line003_08 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 51,
+            "POSITION": 50,
+            "TANGENT": 52,
+            "TEXCOORD_0": 53
+          },
+          "indices": 54,
+          "material": 10,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Line001_08 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 56,
+            "POSITION": 55,
+            "TANGENT": 57,
+            "TEXCOORD_0": 58
+          },
+          "indices": 59,
+          "material": 11,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Line002_08 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 61,
+            "POSITION": 60,
+            "TANGENT": 62,
+            "TEXCOORD_0": 63
+          },
+          "indices": 64,
+          "material": 12,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Line006_03 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 66,
+            "POSITION": 65,
+            "TANGENT": 67,
+            "TEXCOORD_0": 68
+          },
+          "indices": 69,
+          "material": 13,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder007_01 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 71,
+            "POSITION": 70,
+            "TANGENT": 72,
+            "TEXCOORD_0": 73
+          },
+          "indices": 74,
+          "material": 14,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder008_07 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 76,
+            "POSITION": 75,
+            "TANGENT": 77,
+            "TEXCOORD_0": 78
+          },
+          "indices": 79,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "BurgerFBX.FBX"
+    },
+    {
+      "children": [
+        4,
+        6,
+        8,
+        10,
+        12,
+        33,
+        35
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.2204460492503131e-16,
+        -1,
+        0,
+        0,
+        1,
+        2.2204460492503131e-16,
+        0,
+        -0.5479736328125,
+        0,
+        0.325775146484375,
+        1
+      ],
+      "name": "Cylinder001"
+    },
+    {
+      "mesh": 0,
+      "name": "Cylinder001_04 - Default_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        0.5478585584143485,
+        -0.13962072699039407,
+        -0.87135223100189796,
+        0,
+        -0.84436375634221927,
+        0.2151845328356565,
+        -0.56536967911602443,
+        0,
+        0.25651184398088134,
+        1.006528233164538,
+        6.2073431907263532e-09,
+        0,
+        5.1758460998535156,
+        45.407558441162109,
+        0.35401654243469238,
+        1
+      ],
+      "name": "Cylinder002"
+    },
+    {
+      "mesh": 1,
+      "name": "Cylinder002_02 - Default_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.2204460492503131e-16,
+        -1,
+        0,
+        0,
+        1,
+        2.2204460492503131e-16,
+        0,
+        -0.43083882331848145,
+        12.008660316467285,
+        0.30962482094764709,
+        1
+      ],
+      "name": "Cylinder003"
+    },
+    {
+      "mesh": 2,
+      "name": "Cylinder003_01 - Default_0"
+    },
+    {
+      "children": [
+        11
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.2204460492503131e-16,
+        -1,
+        0,
+        0,
+        1,
+        2.2204460492503131e-16,
+        0,
+        -0.43083882331848145,
+        17.881048202514648,
+        0.30962482094764709,
+        1
+      ],
+      "name": "Cylinder004"
+    },
+    {
+      "mesh": 3,
+      "name": "Cylinder004_07 - Default_0"
+    },
+    {
+      "children": [
+        13,
+        15,
+        17,
+        19,
+        21,
+        23,
+        25,
+        27,
+        29,
+        31
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0.018465716816656319,
+        -0.99982949411509514,
+        0,
+        0,
+        0.99982949411509514,
+        0.018465716816656319,
+        0,
+        -0.97955513000488281,
+        41.572673797607422,
+        -4.4265108108520508,
+        1
+      ],
+      "name": "BurgerItens"
+    },
+    {
+      "children": [
+        14
+      ],
+      "matrix": [
+        0.6781025327602791,
+        -1.2587617262044482,
+        0.49414931260856798,
+        0,
+        1.2072145724118537,
+        0.8125861317813553,
+        0.41331042578031824,
+        0,
+        -0.60934250772721732,
+        0.20907098966350804,
+        1.3687507811878885,
+        0,
+        11.619688034057617,
+        -19.320457458496094,
+        1.3917160034179688,
+        1
+      ],
+      "name": "Line005"
+    },
+    {
+      "mesh": 4,
+      "name": "Line005_03 - Default_0"
+    },
+    {
+      "children": [
+        16
+      ],
+      "matrix": [
+        0.34309918392798977,
+        -1.4733537738031151,
+        1.8626451793694415e-09,
+        0,
+        1.4600235041552156,
+        0.33999497070990442,
+        0.20303314668035002,
+        0,
+        -0.19774235301866294,
+        -0.046048164645010894,
+        1.4990883633553433,
+        0,
+        11.619688034057617,
+        -31.837532043457031,
+        -2.3384246826171875,
+        1
+      ],
+      "name": "Line004"
+    },
+    {
+      "mesh": 5,
+      "name": "Line004_03 - Default_0"
+    },
+    {
+      "children": [
+        18
+      ],
+      "matrix": [
+        0.52332242134840212,
+        -0.44694991449925364,
+        0.13544457124481363,
+        0,
+        0.43370441615696226,
+        0.54055690115370847,
+        0.10804874204535796,
+        0,
+        -0.17323375033792082,
+        0.0031345141690282264,
+        0.67967343157339144,
+        0,
+        -5.4302372932434082,
+        16.68994140625,
+        0.27563095092773438,
+        1
+      ],
+      "name": "Plane002"
+    },
+    {
+      "mesh": 6,
+      "name": "Plane002_06 - Default_0"
+    },
+    {
+      "children": [
+        20
+      ],
+      "matrix": [
+        0.28523462496051089,
+        0.63996009863875503,
+        0.03268045128021034,
+        0,
+        -0.6358005860608279,
+        0.28710070912697316,
+        -0.072846497651109371,
+        0,
+        -0.079841237553030478,
+        1.3310407223947662e-07,
+        0.69685085047515682,
+        0,
+        -5.188011646270752,
+        18.354930877685547,
+        -1.6093673706054688,
+        1
+      ],
+      "name": "Plane001"
+    },
+    {
+      "mesh": 7,
+      "name": "Plane001_06 - Default_0"
+    },
+    {
+      "children": [
+        22
+      ],
+      "matrix": [
+        0.99096156570633209,
+        0.015892847641703726,
+        0.13320221884520445,
+        0,
+        -0.0050767844143269616,
+        0.99668893077072496,
+        -0.081149752493976046,
+        0,
+        -0.13405085375950118,
+        0.079740032580894654,
+        0.98776093129450204,
+        0,
+        -8.9450092315673828,
+        -1.412595272064209,
+        -7.4130668640136719,
+        1
+      ],
+      "name": "Cylinder006"
+    },
+    {
+      "mesh": 8,
+      "name": "Cylinder006_05 - Default_0"
+    },
+    {
+      "children": [
+        24
+      ],
+      "matrix": [
+        0.98266395170503484,
+        -0.0059190570785269602,
+        0.18530084612181372,
+        0,
+        0.00083965968408186448,
+        0.99962217200058656,
+        0.027478111926364707,
+        0,
+        -0.18539348983704931,
+        -0.026846162001195998,
+        0.98229770229316871,
+        0,
+        -20.604278564453125,
+        -25.08355712890625,
+        -10.906169891357422,
+        1
+      ],
+      "name": "Cylinder005"
+    },
+    {
+      "mesh": 9,
+      "name": "Cylinder005_05 - Default_0"
+    },
+    {
+      "children": [
+        26
+      ],
+      "matrix": [
+        -0.96188475055129885,
+        0.25277337787633652,
+        -0.10432327685542048,
+        0,
+        -0.2365014876027843,
+        -0.96049739062284822,
+        -0.14666904570620912,
+        0,
+        -0.1372762653139136,
+        -0.11640610827480993,
+        0.98366907287856586,
+        0,
+        -21.609453201293945,
+        -19.975814819335938,
+        -6.2825851440429688,
+        1
+      ],
+      "name": "Line003"
+    },
+    {
+      "mesh": 10,
+      "name": "Line003_08 - Default_0"
+    },
+    {
+      "children": [
+        28
+      ],
+      "matrix": [
+        0.69349096638226493,
+        -0.71088497224143687,
+        0.11710130903708021,
+        0,
+        0.71368189501648138,
+        0.70007808492937662,
+        0.023424528127894407,
+        0,
+        -0.098632205201368853,
+        0.067328385494031737,
+        0.99284356178872268,
+        0,
+        6.3981781005859375,
+        -4.8313007354736328,
+        1.7301406860351562,
+        1
+      ],
+      "name": "Line001"
+    },
+    {
+      "mesh": 11,
+      "name": "Line001_08 - Default_0"
+    },
+    {
+      "children": [
+        30
+      ],
+      "matrix": [
+        -0.69107270690820133,
+        -0.70219308595171814,
+        -0.17129875831099467,
+        0,
+        0.68156709865635468,
+        -0.71198660951085468,
+        0.1689425829238744,
+        0,
+        -0.24059275013567921,
+        1.0387804994385003e-08,
+        0.97062627565955772,
+        0,
+        -22.860754013061523,
+        8.3922214508056641,
+        -11.053928375244141,
+        1
+      ],
+      "name": "Line002"
+    },
+    {
+      "mesh": 12,
+      "name": "Line002_08 - Default_0"
+    },
+    {
+      "children": [
+        32
+      ],
+      "matrix": [
+        -0.69788312300547251,
+        -1.3163517598216523,
+        0.26203912266985052,
+        0,
+        1.3253985161235891,
+        -0.7224537644407184,
+        -0.099336420786919913,
+        0,
+        0.21157996737735324,
+        0.1837557514045183,
+        1.4865921209337456,
+        0,
+        9.4606847763061523,
+        -33.155513763427734,
+        2.6375808715820312,
+        1
+      ],
+      "name": "Line006"
+    },
+    {
+      "mesh": 13,
+      "name": "Line006_03 - Default_0"
+    },
+    {
+      "children": [
+        34
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.2204460492503131e-16,
+        -1,
+        0,
+        0,
+        1,
+        2.2204460492503131e-16,
+        0,
+        -0.43083882331848145,
+        22.491867065429688,
+        0.30962482094764709,
+        1
+      ],
+      "name": "Cylinder007"
+    },
+    {
+      "mesh": 14,
+      "name": "Cylinder007_01 - Default_0"
+    },
+    {
+      "children": [
+        36
+      ],
+      "matrix": [
+        -0.88606885157884419,
+        -0.3490671103278023,
+        -0.30501498774510416,
+        0,
+        -0.28378743737681916,
+        -0.11179818037984601,
+        0.95234755066144494,
+        0,
+        -0.36653332815563455,
+        0.9304049222522166,
+        2.4585316116265687e-08,
+        0,
+        -0.43083882331848145,
+        28.364255905151367,
+        0.30962482094764709,
+        1
+      ],
+      "name": "Cylinder008"
+    },
+    {
+      "mesh": 15,
+      "name": "Cylinder008_07 - Default_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    },
+    {
+      "sampler": 0,
+      "source": 8
+    },
+    {
+      "sampler": 0,
+      "source": 9
+    },
+    {
+      "sampler": 0,
+      "source": 10
+    },
+    {
+      "sampler": 0,
+      "source": 11
+    },
+    {
+      "sampler": 0,
+      "source": 12
+    },
+    {
+      "sampler": 0,
+      "source": 13
+    },
+    {
+      "sampler": 0,
+      "source": 14
+    },
+    {
+      "sampler": 0,
+      "source": 15
+    },
+    {
+      "sampler": 0,
+      "source": 16
+    },
+    {
+      "sampler": 0,
+      "source": 17
+    },
+    {
+      "sampler": 0,
+      "source": 18
+    },
+    {
+      "sampler": 0,
+      "source": 19
+    },
+    {
+      "sampler": 0,
+      "source": 20
+    },
+    {
+      "sampler": 0,
+      "source": 21
+    },
+    {
+      "sampler": 0,
+      "source": 22
+    },
+    {
+      "sampler": 0,
+      "source": 23
+    },
+    {
+      "sampler": 0,
+      "source": 24
+    },
+    {
+      "sampler": 0,
+      "source": 25
+    }
+  ]
+}
+
